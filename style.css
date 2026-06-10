@@ -1,0 +1,66 @@
+body{
+font_family:Arial,sans-serif
+background_color blue;
+margin:0;
+padding:0;
+}
+.header{
+background_color:blue;
+color:White;
+padding: 15px;
+text-align: center;
+font-size: 22px;
+}
+	
+
+.navbar a{
+	float: left;
+	color:green ;
+	padding: 14px 20px;
+	text-decoration: :none;
+}
+navbar{
+	background-color: #0096c7
+}
+.container
+padding:20px;
+}
+.card{
+	background: green;
+	padding: 20px;
+	margin: 15px 0;
+	border-radius: 10px;
+	cursor: pointer;
+}
+button:hover{
+	background-color:#0077b6 ;
+}
+input,select{
+	width: 100%;
+	padding: 10px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+}
+table, th,td{
+	border: 1px solid #ddd;
+}
+th{
+	background-color: #0077b6;
+	color: white;
+}
+td,th{
+	padding: 10px;
+	text-align: left;
+}
+
+
+.form{
+	backgroung-color: green;
+	padding: 20px;
+}
